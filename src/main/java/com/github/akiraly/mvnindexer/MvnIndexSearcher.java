@@ -28,6 +28,9 @@ import org.codehaus.plexus.PlexusConstants;
 import org.codehaus.plexus.PlexusContainerException;
 import org.codehaus.plexus.component.repository.exception.ComponentLookupException;
 
+/**
+ * Based on https://github.com/apache/maven-indexer/blob/master/indexer-examples/indexer-examples-basic/src/main/java/org/apache/maven/indexer/examples/BasicUsageExample.java
+ */
 public class MvnIndexSearcher {
 
   public static void main(String[] args)
